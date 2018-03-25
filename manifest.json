@@ -2,6 +2,9 @@
   "name": "Make Ads Visible Again",
   "version": "1.0",
   "description": "Make Ads visible again",
+  "icons": { "16": "icon.png",
+           "48": "icon.png",
+          "128": "icon.png" },
   "permissions": [
     "tabs",
     "*://www.google.com/*",
